@@ -1,0 +1,13 @@
+C:\Users\Owner\workspace\test30\Urban-Planner\bin\Debug\netcoreapp3.1\Urban-Planner.exe
+C:\Users\Owner\workspace\test30\Urban-Planner\bin\Debug\netcoreapp3.1\Urban-Planner.deps.json
+C:\Users\Owner\workspace\test30\Urban-Planner\bin\Debug\netcoreapp3.1\Urban-Planner.runtimeconfig.json
+C:\Users\Owner\workspace\test30\Urban-Planner\bin\Debug\netcoreapp3.1\Urban-Planner.runtimeconfig.dev.json
+C:\Users\Owner\workspace\test30\Urban-Planner\bin\Debug\netcoreapp3.1\Urban-Planner.dll
+C:\Users\Owner\workspace\test30\Urban-Planner\bin\Debug\netcoreapp3.1\Urban-Planner.pdb
+C:\Users\Owner\workspace\test30\Urban-Planner\obj\Debug\netcoreapp3.1\Urban-Planner.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\test30\Urban-Planner\obj\Debug\netcoreapp3.1\Urban-Planner.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\test30\Urban-Planner\obj\Debug\netcoreapp3.1\Urban-Planner.AssemblyInfo.cs
+C:\Users\Owner\workspace\test30\Urban-Planner\obj\Debug\netcoreapp3.1\Urban-Planner.csproj.CoreCompileInputs.cache
+C:\Users\Owner\workspace\test30\Urban-Planner\obj\Debug\netcoreapp3.1\Urban-Planner.dll
+C:\Users\Owner\workspace\test30\Urban-Planner\obj\Debug\netcoreapp3.1\Urban-Planner.pdb
+C:\Users\Owner\workspace\test30\Urban-Planner\obj\Debug\netcoreapp3.1\Urban-Planner.genruntimeconfig.cache
